@@ -1,8 +1,8 @@
-Events Hub - platform for events and concerts
+# Events Hub - platform for events and concerts
 
 Created by: Vladyslava Pastushenko
 
-Main idea
+## Main idea
 
 The application helps you discover, organize, and manage concerts, stand-up shows, festivals, and other cultural events in one place.
 
